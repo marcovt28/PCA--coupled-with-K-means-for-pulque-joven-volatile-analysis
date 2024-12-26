@@ -1,6 +1,7 @@
 #_______Volátiles con áreas post filtro de 100 millones para pulque joven_____________________#
-setwd("C:/Users/VT/Documents/UAQ/Proyecto de investigación/Tesis/Construcción del proyecto/Construcción tesis/Resultados/Cromatografía/Segundo acercamiento de volátiles/Heatmap & PCA with 100 mill tsh")
-
+#This analysis is carried out after filtering out those detected compounds with less tha 100,000,000 Arbitrary Units in order to
+#create a Principal Component Analysis that explained a greater portion of the original variability in the data set. Original detected compounds 
+#can be shared, contact information in my main profile page.
 
 vol100=read.csv("IX. Areas post filtrado con umbral de 100 mill.csv")
 #vol100
