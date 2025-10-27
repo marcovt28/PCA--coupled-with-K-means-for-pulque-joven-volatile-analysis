@@ -9,8 +9,7 @@ vol100=read.csv("IX. Areas post filtrado con umbral de 100 mill.csv")
 estacion=row.names(vol100)
 estacion
 #Which latin number associates with which sampling region is specified on
-#C:/Users/VT/Documents/UAQ/Proyecto de investigación/Tesis/Construcción del proyecto/Construcción tesis/Resultados/Cromatografía/Segundo acercamiento de volátiles/Heatmap & PCA with 100 mill tsh
-#in "Relacion de muestreos con numeros latinos asignados en R.xlsx" In this case,
+#"Relacion de muestreos con numeros latinos asignados en R.xlsx" In this case,
 #1=4.1, 2=4.2, 3=1.1, 4=1.2, 5=2.1, 6=2.2, 7=3.1, 8=3.2, 9=5.1 and 10=5.2. Further details
 #available at the cited article or GitHub information.
 
@@ -210,3 +209,4 @@ text(clvol100mill, row.names(vol100), cex=0.6, pos=4, col="red")
 #sampling findings.
 
 #_#_#_#_#_____________________#######_____________________________#_#_#_#_#
+
