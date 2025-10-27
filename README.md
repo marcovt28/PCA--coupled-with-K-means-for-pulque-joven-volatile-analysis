@@ -1,4 +1,4 @@
-Thank you for reading this analysis. The following information aim is to further clarify the identity of each data grupo used.
+Thank you for reading this analysis. The following information aim is to further clarify the identity of the data used.
 
 In the "IX. Areas post filtrado con umbral de 100 mill.csv", the data is presented from top to bottom and each line is associated with a sampling as follows: 
 1st line=1=4.1
